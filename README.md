@@ -1,6 +1,6 @@
-# Client Financial Analysis
+# Client Financial Analysis with Excel
 
-<img align="right" alt="Snoring Partner" width="1000" height = "400" src="https://www.helpguide.org/wp-content/uploads/senior-man-covering-her-ears-while-man-snoring-picture-768.jpg">
+<img align="right" alt="Snoring Partner" width="1000" height = "400" src="https://i0.wp.com/leonine.com.ng/new/wp-content/uploads/2020/03/Leonine-Advisory-Page-Routine-Advisory-Services.jpg?resize=1024%2C729&ssl=1">
 
 ---
 
@@ -14,8 +14,9 @@
 - [Data Modeling](https://github.com/globalsmile/Airline-Analysis#Data-Modeling)
 - [Data Visualization](https://github.com/globalsmile/Airline-Analysis#Data-Visualization)
 - [Data Analysis](https://github.com/globalsmile/Airline-Analysis#Data-Analysis)
-- [Recommendation](https://github.com/globalsmile/Airline-Analysis#Recommendation)
+- [Insights](https://github.com/globalsmile/Airline-Analysis#Insights)
 - [Shareable link](https://github.com/globalsmile/Airline-Analysis#Shareable-Link)
+
 
 ---
 
@@ -170,7 +171,7 @@ As shown by [Data Visualization](https://github.com/globalsmile/Airline-Analysis
 
 ---
 
-# Recommendation
+# Insights
 
 As shown by [Data Visualization](https://github.com/globalsmile/Airline-Analysis#Data-Visualization), It can be deducted that:
 
