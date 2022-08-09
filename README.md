@@ -21,33 +21,27 @@
 ---
 
 # Introduction
-According to a publication on [Researchgate](https://www.researchgate.net/publication/353107608_Accuracy_of_a_Smartphone_Application_Measuring_Snoring_in_Adults-How_Smart_Is_It_Actually):
 
-### About 40% of the adult population is affected by snoring, which is closely related to obstructive sleep apnea (OSA) and can be associated with serious health implications. Commercial smartphone applications (apps) offer the possibility of monitoring snoring at home. However, the number of validation studies addressing snoring apps is limited. 
+To help the client unlock the potential of financial analysis and reporting, I’ve analyzed the client's financial data 
 
-The purpose of the present study is to help the client and their partner analyze their sleeping activity recorded on an app each night.
+The goal of this financial analysis is to analyze whether the client is stable, solvent, liquid, or profitable enough to warrant a monetary investment. 
+
 
 ---
 
 # Problem Statement
 
-The app collects lots of different data points including a snore detector. 
-The client's partner snores very loudly during the night. The client believes that they do not snore.
-The client believes that the app is incorrectly tracking their partners snoring and impacting the quality of their data.
-
-Using the data provided:
-
-- Find out who is snoring, the Client or their partner?
-- Provide the client with some recommendations based on the data to improve the quality of their sleep.
+Using the client's financial data:
+- help the client unlock the potential of analysis and reporting
+- produce everything the client need to know about her finances
 
 ---
 
 # Data Sourcing
 
-This Datasets were presented by [The Numerist](https://www.numerist.co.uk/home) and available at:
+This Datasets were presented by [Finex Skills Hub](https://www.finexskillshub.com) and available at:
 
-- [Client Sleep Data](https://docs.google.com/spreadsheets/d/1kbqybVVTf4lqVgU21eSf_j4vdLe2xhMBVDZhZMqY3QY/copy)
-- [Partner Sleep Data](https://docs.google.com/spreadsheets/d/1kbqybVVTf4lqVgU21eSf_j4vdLe2xhMBVDZhZMqY3QY/copy)
+- https://tinyurl.com/OUINIG
 
 ---
 
