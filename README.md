@@ -120,9 +120,7 @@ Figure 1 shows visualizations from `Dashboard` worksheet
 
 | Figure 1 |
 | ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/183561482-f7d339e5-207c-4010-bf63-4434d1d8256a.png) |
-
-
+| ![image](https://user-images.githubusercontent.com/106287208/183564662-5a1714c7-610e-45f7-be17-6ae94c6a4628.png) |
 
 ---
 
@@ -137,9 +135,9 @@ Measures used in visualization are:
 
 As shown from [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization), It can be deducted that:
 
-- The client budgeted a total amount of `230,502`
-- The client spent a total amount of `192,478`
-- The client remaining balance is `38,024`
+- The client budgeted a total amount of `3600`
+- The client spent a total amount of `4260`
+- The client remaining balance is `-660`
 
 ---
 
@@ -147,9 +145,9 @@ As shown from [Data Visualization](https://github.com/globalsmile/Client-Finacia
 
 As shown by [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization), It can be deducted that:
 
-There is a strong negative correlation between the sleep quality and the snoring time of both the client and partner, hence we can not make any recommendations as to improving the quality of sleep
-
-This can be caused by an overestimation of snoring by the app. For clinical practice, the present results indicate that the app should not be used for OSA screening, but can possibly be a helpful tool for monitoring snoring e.g., inconjunction with the evaluation of different treatment modalities.
+- The client has set a monthly budget amount of `300`, however the client has been finding it difficult to stay afloat of this budget amount
+- It appears the client has spent the most in the most of `July`
+- It appears the client has spent the highest amount on `Consultancy`
 
 ---
 
