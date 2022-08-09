@@ -97,16 +97,16 @@ The date table was named `Calender`.
 
 # Data Modeling
 
-After the datasets were cleaned and transformed, it was ready to be modeled.
+After the dataset was cleaned and transformed, it was ready to be modeled(using Power Pivot).
 
-- The `Calender` table was then marked as the official date table in the dataset.
-- To reference the dates in the `End` column of the 2 tables named `Client` and `Partner` respectively more accurately, a `one-to-many (*:1) relationship` was created between the 
-`Client` and the `Calender` tables using the dates column in each of the tables, also a `one-to-many (*:1) relationship` was created between the 
-`Partner` and the `Calender` tables using the dates column in each of the tables in a `Star Schema` as shown below:
+- The `Calender` table was marked as the official date table in the dataset.
+- A `one-to-many (*:1) relationship` was created between the `Budget` and the `Calender` tables using the `date` column in each of the tables
+- A `one-to-many (*:1) relationship` was created between the `Transactions` and the `Calender` tables using the `date` column in each of the tables 
+- A `one-to-many (*:1) relationship` was created between the `Transactions` and the `Categories` tables using the `Category` column in each of the tables
+- A `one-to-many (*:1) relationship` was created between the `budget` and the `Categories` tables using the `Category` column in each of the tables 
+- The realtioships formed in the data model is a `Star Schema` and is shown below:
 
-<img align="right" alt="Data Model" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/183488382-e73927a3-8147-4f85-a837-18806d704e4f.png">
-
-After [Data Visualization](https://github.com/globalsmile/Airline-Analysis#Data-Visualization), the all the columns in both the `Client` and `Partner` tables were hidden.
+<img align="right" alt="Data Model" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/183560342-f5e144bd-ffe1-476e-a264-172b0b23462f.png">
 
 ---
 
