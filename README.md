@@ -7,15 +7,15 @@
 
 # Table of Contents
 
-- [Introduction](https://github.com/globalsmile/Airline-Analysis#introduction)
-- [Problem Statement](https://github.com/globalsmile/Airline-Analysis#Problem-Statement)
-- [Data Sourcing](https://github.com/globalsmile/Airline-Analysis#Data-Sourcing)
-- [Data Transformation](https://github.com/globalsmile/Airline-Analysis#Data-Transformation)
-- [Data Modeling](https://github.com/globalsmile/Airline-Analysis#Data-Modeling)
-- [Data Visualization](https://github.com/globalsmile/Airline-Analysis#Data-Visualization)
-- [Data Analysis](https://github.com/globalsmile/Airline-Analysis#Data-Analysis)
-- [Insights](https://github.com/globalsmile/Airline-Analysis#Insights)
-- [Shareable link](https://github.com/globalsmile/Airline-Analysis#Shareable-Link)
+- [Introduction](https://github.com/globalsmile/Client-Finacial-Analysis#introduction)
+- [Problem Statement](https://github.com/globalsmile/Client-Finacial-Analysis#Problem-Statement)
+- [Data Sourcing](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Sourcing)
+- [Data Transformation](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Transformation)
+- [Data Modeling](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Modeling)
+- [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization)
+- [Data Analysis](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Analysis)
+- [Insights](https://github.com/globalsmile/Client-Finacial-Analysis#Insights)
+- [Shareable link](https://github.com/globalsmile/Client-Finacial-Analysis#Shareable-Link)
 
 
 ---
@@ -130,24 +130,22 @@ Figure 1 shows visualizations from `Dashboard` worksheet
 
 Measures used in visualization are:
 
-- Average Regularity = `AVERAGEX(Client,Client[Regularity])`
-- Average Sleep Quality = `AVERAGEX(Client,Client[Sleep Quality])`
-- Average Time in Bed = `AVERAGEX(Client,Client[Time in bed (seconds)]) / 3600`
-- Average Time Asleep = `AVERAGEX(Client,Client[Time asleep (seconds)]) / 3600`
-- Average Snore Time = `AVERAGEX(Client,Client[Snore time]) / 60`
-- Background Transparency = `"rgba(255,255,255,0)"`
+- Actual = `SUM(Transactions[Amount])`
+- Balance = `SUM(Budget[Amount])`
+- Balance = `[Budget]-[Actual]`
 
-As shown by [Data Visualization](https://github.com/globalsmile/Airline-Analysis#Data-Visualization), It can be deducted that:
 
-- Both the client and partner snores, however the partner(`Average Snore Time = 15 min`)  snores longer than the client(`Average Snore Time = 3`)
-- The partner(`Average Time in Bed = 7 hours`) spends more time in bed than the client(`Average Time in Bed = 5 hours`)
-- The partner(`Average Time Asleep = 6 hours`) spends more time asleep than the client(`Average Time Asleep = 4hours`)
+As shown from [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization), It can be deducted that:
+
+- The client budgeted a total amount of `230,502`
+- The client spent a total amount of `192,478`
+- The client remaining balance is `38,024`
 
 ---
 
 # Insights
 
-As shown by [Data Visualization](https://github.com/globalsmile/Airline-Analysis#Data-Visualization), It can be deducted that:
+As shown by [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization), It can be deducted that:
 
 There is a strong negative correlation between the sleep quality and the snoring time of both the client and partner, hence we can not make any recommendations as to improving the quality of sleep
 
