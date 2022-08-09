@@ -47,16 +47,16 @@ This Datasets were presented by [Finex Skills Hub](https://www.finexskillshub.co
 
 # Data Transformation
 
-Data transformation was done in Power Query and the datasets were loaded into Microsoft Power BI Desktop for modeling.
+Data transformation was done in Power Query and the datasets were loaded into Microsoft Excel Power Pivot for modeling.
 
-- Client Sleep Data consists of `21 columns and 111 rows` of observations
-- Partner Sleep Data consists of `21 columns and 77 rows` of observations
+The client's financial data consists of  2 worksheets containing 2 tables:
 
-In Power query the tables that contains the datasets are named:
--  `Client`
--  `Partner` respectively.
+- `Transactions` which has `4 columns and 296 rows` of observation
+- `Budget` which has `15 columns and 24 rows` of observation
 
-After careful observation each of the tables have same column names, hence:
+
+
+After careful examination each of the tables have same column names, hence:
 
 The tabulation below shows the column names and their description:
 | Column Name | Description |
