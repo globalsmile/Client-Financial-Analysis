@@ -112,21 +112,17 @@ After the dataset was cleaned and transformed, it was ready to be modeled(using 
 
 # Data Visualization
 
-Data visualization for the datasets was done in two folds using Microsft Power BI Desktop and Microsoft PowerPoint:
-- `Client Sleeping Habit Analysis`: Shows the average time in bed per day, average time asleep per day, average snore time per day, etc for the client.
-- `Partner Sleeping Habit Analysis`: Shows the average time in bed per day, average time asleep per day, average snore time per day, etc for the Partner.
+Data visualization for the datasets was done using Microsft Excel:
 
-Figure 1 shows visualizations from `Client Sleeping Habit Analysis`
+- The `Dashboard` worksheet: Shows the Actual amount, Budget amount, Balance, etc of the client.
+
+Figure 1 shows visualizations from `Dashboard` worksheet
 
 | Figure 1 |
 | ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/183494154-37e8bb69-20a0-4cc8-a6b7-2529d462350f.png) |
+| ![image](https://user-images.githubusercontent.com/106287208/183561482-f7d339e5-207c-4010-bf63-4434d1d8256a.png) |
 
-Figure 2 shows visualizations from `Partner Sleeping Habit Analysis`
 
-| Figure 2 |
-| ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/183493702-dd7748af-115b-4e35-ac8c-a87b0a58b7d3.png) |
 
 ---
 
