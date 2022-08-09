@@ -144,8 +144,9 @@ As shown from [Data Visualization](https://github.com/globalsmile/Client-Finacia
 As shown by [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization), It can be deducted that:
 
 - The client has set a monthly budget amount of `300`, however the client has been finding it difficult to stay afloat of this budget amount
-- It appears the client has spent the most in the most of `July`
-- It appears the client has spent the highest amount on `Consultancy`
+- It appears the client spent the most in the month of `May`
+- It appears the client spent the least in the month of `July`
+- It appears the client has spent the highest amount on `Social`
 
 ---
 
@@ -153,4 +154,4 @@ As shown by [Data Visualization](https://github.com/globalsmile/Client-Finacial-
 
 You can interact with the report here: 
 
-https://app.powerbi.com/view?r=eyJrIjoiMDVlNzU4MzUtY2UxOS00Yzk1LTlkNDAtZTA4Yzc5NjkwOTg3IiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9
+https://badmus67-my.sharepoint.com/:x:/g/personal/mohammed_badmus67_onmicrosoft_com/EfKDjq3DT4RJhenoDiMh8PMBDZlr7QphTXE5LavoYkjkRw?e=Ak5sqZ
