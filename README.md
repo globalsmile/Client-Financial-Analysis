@@ -62,6 +62,13 @@ The tabulation below shows the `Transactions` table with its column names and th
 | Category | Describes the category of the transaction |
 | Amount | Represents the amount  of the transaction |
 
+The tabulation below shows the `Budget` table with its column names and their description:
+| Column Name | Description |
+| ----------- | ----------- |
+| Category | Describes the category of the budget |
+| Class | describes the class of the budget |
+| Type | Describes the the type of the budget |
+| Jan 2021 - Dec 2021 | Represents the budget amount for each month respectively |
 
 
 Data Cleaning for the 2 datasets was done in power query as follows:
