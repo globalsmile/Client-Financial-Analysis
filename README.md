@@ -71,29 +71,25 @@ The tabulation below shows the `Budget` table with its column names and their de
 | Jan 2021 - Dec 2021 | Represents the budget amount for each month respectively |
 
 
-Data Cleaning for the 2 datasets was done in power query as follows:
+Data Cleaning for the dataset was done in power query as follows:
 
-- Unnecessary columns were removed. The remaining columns were tailored to provide answers to the [Problem Statement](https://github.com/globalsmile/Airline-Analysis#Problem-Statement) and are shown below:
+- For the `Budget` table, the columns `Jan 2021` to `Dec 2021` where unpivoted
+- The resulting `Attribute` and `Value` columns where renamed to `Date` and `Amount` respectively 
+- Validated the accuracy of the of `Date` column by changing the type to `date only`
+- Validated the accuracy of the of `Amount` column by changing the type to `whole number`
+- A dimensions table named `categories` was created by referencing the `Budget` table
+- Unneccessary columns were removed from the `categories` table
+- Duplicate rows were removed from `categories` table
 
-| Column Name |
-| ----------- | 
-| End | 
-| Sleep Quality | 
-| Regularity | 
-| Time in Bed | 
-| Time Asleep | 
-| Snore Time |
+To ensure the accuracy of the dates in the `Date` column each of the tables, a date table was created for referencing using the M-formula:
 
-- Validated the accuracy of the of `End` column by changing the type to `date only`
-- Removed error rows from the `End` column
-
-To ensure the accuracy of the dates in the `End` column, a date table was created for referencing using the M-formula:
-
-`List.Dates(#date(2020,01,01), 365*1, #duration(1,0,0,0)`
+`{Number.From(List.Min(Transactions[Date]))..Number.From(List.Max(Transactions[Date]))}`
 
 Here is a breakdown of what the formula does:
 
-For the 2 datasets, we want the start date to reflect the earliest date that we have in the data: January 01, 2020. Additionally, you want to see date for 1 year(time frame for our anlysis), including dates in the future.This approach ensures that, as new observation flows in we won't have to re-create this table.Also the duration represents observation for everyday.
+For the 2 datasets, we want the start date to reflect the earliest to latest date that we have in the data: January 01, 2021 - December 01, 2021.
+
+`Month`,` Month Name`, `Year` columns were extracted from the date table
 
 The date table was named `Calender`.
 
