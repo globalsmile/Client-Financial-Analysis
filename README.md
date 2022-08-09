@@ -54,34 +54,15 @@ The client's financial data consists of  2 worksheets containing 2 tables:
 - `Transactions` which has `4 columns and 296 rows` of observation
 - `Budget` which has `15 columns and 24 rows` of observation
 
-
-
-After careful examination each of the tables have same column names, hence:
-
-The tabulation below shows the column names and their description:
+The tabulation below shows the `Transactions` table with its column names and their description:
 | Column Name | Description |
 | ----------- | ----------- |
-| Start | Represents the start date and time of the observation |
-| End | Represents the end date and time of the observation |
-| Sleep Quality | Represnts the quality of sleep of an individual around a certain time |
-| Regularity | Represents the regularity of sleep of an individual  around a certain time |
-| Mood | Blank Column |
-| Heart Rate(bmp) | Represents the heart rate of an individual  around a certain time |
-| Steps | Represents the number of steps taken by an individual in a day |
-| Alarm Mode | Describes the alarm mode the individual has set |
-| Air Pressure | Represents the air pressure in the room |
-| City | Blank Column |
-| Movements | Represents the number of movements made by the individual around a certain time |
-| Time in Bed | Represents the time in bed in seconds  |
-| Time Asleep | Represents the time asleep in seconds |
-| Time before sleep | Represents the time before sleep in seconds |
-| Window Start | Represents the window start date and time |
-| Window Stop | Represents the window stop date and time |
-| Did Snore | Describes the snoring sound |
-| Snore Time | Represents the snore time of an individual in seconds |
-| Weather Temperature | Represents the tempaerature of the weather around a certain time |
-| Weather Type | Describes the weather type |
-| Notes | Blank Column |
+| Date | Represents the date of the transaction |
+| Description | describes the transaction narration |
+| Category | Describes the category of the transaction |
+| Amount | Represents the amount  of the transaction |
+
+
 
 Data Cleaning for the 2 datasets was done in power query as follows:
 
