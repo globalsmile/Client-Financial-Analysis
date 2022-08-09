@@ -87,7 +87,7 @@ To ensure the accuracy of the dates in the `Date` column each of the tables, a d
 
 Here is a breakdown of what the formula does:
 
-For the 2 datasets, we want the start date to reflect the earliest to latest date that we have in the data: January 01, 2021 - December 01, 2021.
+For the dataset, we want the start date to reflect the earliest to latest date that we have in the data: January 01, 2021 - December 01, 2021.
 
 `Month`,` Month Name`, `Year` columns were extracted from the date table
 
