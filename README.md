@@ -22,8 +22,6 @@
 
 # Introduction
 
-To help the client unlock the potential of financial analysis and reporting, I’ve analyzed the client's financial data 
-
 The goal of this financial analysis is to analyze whether the client is stable, solvent, liquid, or profitable enough to warrant a monetary investment. 
 
 
@@ -32,8 +30,8 @@ The goal of this financial analysis is to analyze whether the client is stable, 
 # Problem Statement
 
 Using the client's financial data:
-- help the client unlock the potential of analysis and reporting
-- produce everything the client need to know about her finances
+- Help the client unlock the potential of analysis and reporting
+- Produce everything the client need to know about her finances
 
 ---
 
