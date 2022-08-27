@@ -71,7 +71,7 @@ The tabulation below shows the `Budget` table with its column names and their de
 
 Data Cleaning for the dataset was done in power query as follows:
 
-- For the `Budget` table, the columns `Jan 2021` to `Dec 2021` where unpivoted
+- For the `Budget` table, the columns from `Jan 2021` to `Dec 2021` where unpivoted
 - The resulting `Attribute` and `Value` columns where renamed to `Date` and `Amount` respectively 
 - Validated the accuracy of the of `Date` column by changing the type to `date only`
 - Validated the accuracy of the of `Amount` column by changing the type to `whole number`
