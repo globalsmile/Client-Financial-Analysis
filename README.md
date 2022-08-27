@@ -153,7 +153,6 @@ As shown by [Data Visualization](https://github.com/globalsmile/Client-Finacial-
 
 # Shareable Link
 
-You can interact with the report here: 
+You can interact with the dashboard here: 
 
-https://badmus67-my.sharepoint.com/:x:/g/personal/mohammed_badmus67_onmicrosoft_com/EfKDjq3DT4RJhenoDiMh8PMBDZlr7QphTXE5LavoYkjkRw?e=Ak5sqZ
-
+[Dashboard](https://badmus67-my.sharepoint.com/:x:/g/personal/mohammed_badmus67_onmicrosoft_com/EeAqCZw-wahIi8P5zP4KKHEB7QWpODKX0WIrna0LLl70PA?e=OLavxD)
