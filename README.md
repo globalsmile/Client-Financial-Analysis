@@ -10,7 +10,7 @@
 - [Introduction](https://github.com/globalsmile/Client-Finacial-Analysis#introduction)
 - [Problem Statement](https://github.com/globalsmile/Client-Finacial-Analysis#Problem-Statement)
 - [Data Sourcing](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Sourcing)
-- [Data Transformation](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Transformation)
+- [Data Preparation](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Preparation)
 - [Data Modeling](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Modeling)
 - [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization)
 - [Data Analysis](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Analysis)
