@@ -37,7 +37,7 @@ Using the client's financial data:
 
 # Data Sourcing
 
-The Dataset was presented by [Finex Skills Hub](https://www.finexskillshub.com) and available at:
+The Dataset used for this analysis was presented by [Finex Skills Hub](https://www.finexskillshub.com) and available at:
 
 - [Dataset](https://tinyurl.com/OUINIG)
 
