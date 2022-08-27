@@ -39,7 +39,7 @@ Using the client's financial data:
 
 The Dataset used for this analysis was presented by [Finex Skills Hub](https://www.finexskillshub.com) and available at:
 
-- [Dataset](https://github.com/globalsmile/Client-Financial-Analysis/blob/main/Client%20Financial%20Data.xlsx)
+- [Client Finance Data](https://github.com/globalsmile/Client-Financial-Analysis/blob/main/Client%20Financial%20Data.xlsx)
 
 ---
 
