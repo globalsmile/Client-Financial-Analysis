@@ -144,10 +144,12 @@ As shown from [Data Visualization](https://github.com/globalsmile/Client-Finacia
 
 As shown by [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization), It can be deducted that:
 
-- The client has a monthly budget amount of more than `$16k`,also the client has been able to stay afloat of this budget amount and as such stable enough to warrant a monetary investment
-- It appears the client spent the most in the month of `January`
-- It appears the client spent the least in the month of `November`
-- It appears the client has spent the highest amount on `Social`
+- The client spent the most in the month of `January`
+- The client spent the least in the month of `November`
+- The client has spent the highest amount on `Social`
+
+
+Key Note: The client has a monthly budget amount of more than `$16k`,also the client has been able to stay afloat of this budget amount and as such stable enough to warrant a monetary investment
 
 ---
 
