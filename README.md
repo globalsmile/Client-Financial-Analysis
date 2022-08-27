@@ -43,7 +43,7 @@ The Dataset used for this analysis was presented by [Finex Skills Hub](https://w
 
 ---
 
-# Data Transformation
+# Data Cleaning & Transformation
 
 Data transformation was done in Power Query and the dataset was loaded into Microsoft Excel Power Pivot for modeling.
 
