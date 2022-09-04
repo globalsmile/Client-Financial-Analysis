@@ -75,7 +75,7 @@ Data Cleaning for the dataset was done in power query as follows:
 - The resulting `Attribute` and `Value` columns where renamed to `Date` and `Amount` respectively 
 - Validated the accuracy of the of `Date` column by changing the type to `date only`
 - Validated the accuracy of the of `Amount` column by changing the type to `whole number`
-- A dimensions table named `categories` was created by referencing the `Budget` table
+- A dimension table named `categories` was created by referencing the `Budget` table
 - Unneccessary columns were removed from the `categories` table
 - Duplicate rows were removed from `categories` table
 
