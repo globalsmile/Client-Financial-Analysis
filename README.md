@@ -142,7 +142,7 @@ As shown from [Data Visualization](https://github.com/globalsmile/Client-Finacia
 
 # Insights
 
-As shown by [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization), It can be deducted that:
+As shown by [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization), It can be deduced that:
 
 - The client spent the most in the month of `January`
 - The client spent the least in the month of `November`
