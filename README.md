@@ -132,7 +132,7 @@ Measures used in visualization are:
 - Balance = `[Budget]-[Actual]`
 
 
-As shown from [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization), It can be deducted that for the year ending December 2021:
+As shown from [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization), It can be deduced that for the year ending December 2021:
 
 - The client budgeted a total amount of `$230,502`
 - The client spent a total amount of `$193,228`
