@@ -7,7 +7,6 @@
 
 # Table of Contents
 
-- [Introduction](https://github.com/globalsmile/Client-Finacial-Analysis#introduction)
 - [Problem Statement](https://github.com/globalsmile/Client-Finacial-Analysis#Problem-Statement)
 - [Data Sourcing](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Sourcing)
 - [Data Preparation](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Preparation)
@@ -16,13 +15,6 @@
 - [Data Analysis](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Analysis)
 - [Insights](https://github.com/globalsmile/Client-Finacial-Analysis#Insights)
 - [Shareable link](https://github.com/globalsmile/Client-Finacial-Analysis#Shareable-Link)
-
-
----
-
-# Introduction
-
-The goal of this financial analysis is to determine if the client is stable, solvent, liquid, or profitable enough to warrant a monetary investment. 
 
 
 ---
