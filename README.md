@@ -149,4 +149,4 @@ Key Note: The client has a monthly budget amount of more than `$16k`,also the cl
 
 You can interact with the dashboard here: 
 
-[Dashboard](https://badmus67-my.sharepoint.com/:x:/g/personal/mohammed_badmus67_onmicrosoft_com/EeAqCZw-wahIi8P5zP4KKHEB7QWpODKX0WIrna0LLl70PA?e=OLavxD)
+[View Dashboard](https://badmus67-my.sharepoint.com/:x:/g/personal/mohammed_badmus67_onmicrosoft_com/EeAqCZw-wahIi8P5zP4KKHEB7QWpODKX0WIrna0LLl70PA?e=OLavxD)
