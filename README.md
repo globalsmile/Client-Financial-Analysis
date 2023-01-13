@@ -1,6 +1,6 @@
 # Client Financial Analysis with Excel
 
-<img align="right" alt="Client Financial Analysis with Excel" width="1000" height = "400" src="https://i0.wp.com/leonine.com.ng/new/wp-content/uploads/2020/03/Leonine-Advisory-Page-Routine-Advisory-Services.jpg?resize=1024%2C729&ssl=1">
+<img align="right" alt="Client Financial Analysis with Excel" width="1000" height = "500" src="https://user-images.githubusercontent.com/106287208/187007496-33b3b2c1-1016-4b51-ba78-a588eab3c48b.png">
 
 ---
 
@@ -14,7 +14,7 @@
 - [Data Visualization](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Visualization)
 - [Data Analysis](https://github.com/globalsmile/Client-Finacial-Analysis#Data-Analysis)
 - [Insights](https://github.com/globalsmile/Client-Finacial-Analysis#Insights)
-- [Shareable link](https://github.com/globalsmile/Client-Finacial-Analysis#Shareable-Link)
+- [Shareable link](https://github.com/globalsmile/Client-Finacial-Analysis#Shareable-link)
 
 
 ---
